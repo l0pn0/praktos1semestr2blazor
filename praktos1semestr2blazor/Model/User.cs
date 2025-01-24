@@ -2,7 +2,7 @@
 
 namespace praktos1semestr2blazor.Model
 {
-    public class User
+    public class RegisterModel
     {
         [Key]
         public int id_User { get; set; }
